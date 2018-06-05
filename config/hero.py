@@ -1,1 +1,2 @@
-BASE_HP = 15
+BASE_HP = 20
+BASE_SP = 5
